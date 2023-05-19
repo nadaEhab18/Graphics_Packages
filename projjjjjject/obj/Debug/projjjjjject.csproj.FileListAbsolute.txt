@@ -1,0 +1,32 @@
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe.config
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\bin\Debug\projjjjjject.pdb
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.AssemblyReference.cache
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Form1.resources
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Properties.Resources.resources
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.GenerateResource.cache
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.CoreCompileInputs.cache
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.exe
+C:\Users\Nada\source\repos\projjjjjject\projjjjjject\obj\Debug\projjjjjject.pdb
+E:\ahmed adel\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe.config
+E:\ahmed adel\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe
+E:\ahmed adel\projjjjjject\projjjjjject\bin\Debug\projjjjjject.pdb
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.AssemblyReference.cache
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Form1.resources
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Properties.Resources.resources
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.GenerateResource.cache
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.CoreCompileInputs.cache
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.exe
+E:\ahmed adel\projjjjjject\projjjjjject\obj\Debug\projjjjjject.pdb
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe.config
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\bin\Debug\projjjjjject.exe
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\bin\Debug\projjjjjject.pdb
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.AssemblyReference.cache
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Form1.resources
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.Properties.Resources.resources
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.GenerateResource.cache
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.exe
+C:\Users\Nada\Downloads\projjjjjject\projjjjjject\obj\Debug\projjjjjject.pdb
